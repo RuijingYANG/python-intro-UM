@@ -28,9 +28,9 @@ as a static PDF file. Alternatively, you can download the entire course as a
 | 12   | Error handling (optional) | [PDF](latex/unit12.pdf) |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RuijingYANG/python-intro-UM/blob/main/lectures/unit12.ipynb) |
 
 
-## Course schedule
+<!-- ## Course schedule
 
-<!--| Date/Time | Activity | Description |
+| Date/Time | Activity | Description |
 |-----------|----------|-------------|
 | **Monday, 2023-05-22, Room 305AB** | |
 |  9:00 - 12:15 | Lecture 1 | Introduction & Units 1-3 |
