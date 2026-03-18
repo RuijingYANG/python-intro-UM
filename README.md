@@ -30,7 +30,7 @@ as a static PDF file. Alternatively, you can download the entire course as a
 
 ## Course schedule
 
-| Date/Time | Activity | Description |
+<!--| Date/Time | Activity | Description |
 |-----------|----------|-------------|
 | **Monday, 2023-05-22, Room 305AB** | |
 |  9:00 - 12:15 | Lecture 1 | Introduction & Units 1-3 |
@@ -46,7 +46,7 @@ as a static PDF file. Alternatively, you can download the entire course as a
 | 13:30 - 15:00 | Lab 4 | Exercises for material covered in lecture 4 |
 | **Friday, 2023-06-02, Room 305AB** | |
 |  9:00 - 12:15 | Lecture 5 | Unit 11 |
-| 13:30 - 15:00 | Lab 5 | Exercises for material covered in lecture 5 |
+| 13:30 - 15:00 | Lab 5 | Exercises for material covered in lecture 5 |-->
 
 ## Python environment
 
